@@ -18,7 +18,7 @@ Desenvolvimento de uma solução de monitoramento focada em cruzar dados de impl
 1. **Cálculo Individual (Granular):** Base detalhada por ID de Cliente para acompanhamento de desvios de prazo e geração de alertas automáticos para clientes em Risco Alto.
 2. **Cálculo de Grupos (Agregado):** Isolamento das métricas globais de performance para alimentar o painel gerencial.
 
-## 📈 Principais Insights e Resultados (Data Storytelling)
+## 📈 Principais Insights e Resultados 
 
 A partir dos dados analisados, foi possível estabelecer as seguintes métricas globais da operação:
 * **Prazo Médio de Implantação:** 49 dias.
