@@ -39,5 +39,5 @@ Foi constatado que clientes com uma **maior taxa de conclusão de treinamento** 
 * **Fórmulas Lógicas e Condicionais (SE, E, OU):** Para classificação automatizada do "Alerta de Risco" e regras de notificação.
 * **Visualização de Dados (Gráfico de Dispersão):** Para comprovação estatística e visual da correlação entre o engajamento no treinamento e o impacto no suporte operacional.
 
-### **Créditos:** Gemini Pro na criação do DataSet, fiz uma análise dos KPIs e também pedir ao Gemini e Claude Code verificar, junto ao Prompt de especialidade em Head de Sales Ops e Especialista em Business Intelligence B2B: ![Validação de KPIs com IA] (Validação de KPIs.pdf)
+### **Créditos:** Gemini Pro na criação do DataSet, fiz uma análise dos KPIs e também pedir ao Gemini e Claude Code para ambos validarem os dados e os KPIs, junto ao Prompt de especialidade em Head de Sales Ops e Especialista em Business Intelligence B2B.
 
